@@ -1,5 +1,6 @@
 # My References
 
+- [Clojure.org - Syntax](https://clojure.org/guides/learn/syntax)
 - [Clojure-Doc (Teaches how to use leiningen, etc)](http://clojure-doc.org/articles/tutorials/getting_started.html)
 - [Clojure Distilled (Language concepts and features WAY WELL DISTILLED)](http://yogthos.github.io/ClojureDistilled.html)
 - [A Brief Beginner's Guide To Clojure](http://www.unexpected-vortices.com/clojure/brief-beginners-guide/index.html)
